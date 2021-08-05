@@ -551,6 +551,7 @@ img {
 
 ::selection {
     background: var(--first-color);
+    color: #f1f2f3;
 }
 
 @media screen and (min-width: 960px) {
